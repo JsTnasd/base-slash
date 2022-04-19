@@ -1,4 +1,4 @@
-El .gitignore ignorenlo ya que fue para subir los datos a github sin que se suba eso
+El .gitignore ignorenlo ya que fue para subir los datos a github sin que se suban algunas cosas innecesarias
 
 Para iniciar pon = git init -y
 Vamos a instalar 3 paquetes estos serian:
